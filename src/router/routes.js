@@ -7,7 +7,7 @@ const routes = [
       { path: '/', redirect: '/mapa' },
       { path: '/mapa', component: () => import('pages/MapPage.vue') },
       { path: '/reservas', component: () => import('pages/BookingPage.vue') },
-      { path: '/chat', component: () => import('pages/chatPage.vue') },
+      { path: '/chat', component: () => import('pages/ChatPage.vue') },
       { path: '/cuenta', component: () => import('pages/AccountPage.vue') }
     ]
   },

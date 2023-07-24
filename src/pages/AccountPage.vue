@@ -21,15 +21,15 @@
             </q-item-section>
         </q-item>
         <q-item clickable v-ripple>
-        <q-item-section side>
-            <q-icon name="local_parking"/>
-        </q-item-section>
-        <q-item-section>
-            <q-item-label>Mis plazas</q-item-label>
-        </q-item-section>
-        <q-item-section side>
-            <q-icon name="navigate_next" />
-        </q-item-section>
+            <q-item-section side>
+                <q-icon name="local_parking"/>
+            </q-item-section>
+            <q-item-section>
+                <q-item-label>Mis plazas</q-item-label>
+            </q-item-section>
+            <q-item-section side>
+                <q-icon name="navigate_next" />
+            </q-item-section>
         </q-item>
         <q-item clickable v-ripple>
         <q-item-section side>
